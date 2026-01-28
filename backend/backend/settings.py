@@ -10,7 +10,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1', '51.250.29.25', 'taski.downtracker.ru']
 
-
+# ASASD
 # Application definition
 
 INSTALLED_APPS = [
